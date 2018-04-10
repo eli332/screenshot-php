@@ -11,6 +11,9 @@
 </head>
 <body>
 
+    <!-- Local test: http://192.56.1.30/tests/website-screenshot/ -->
+    <!-- Reference: https://stackoverflow.com/questions/757675/website-screenshots -->
+
     <?php
 
     // $page_content = file_get_contents('https://www.googleapis.com/pagespeedonline/v1/runPagespeed?url=https://www.stackoverflow.com/&screenshot=true');
